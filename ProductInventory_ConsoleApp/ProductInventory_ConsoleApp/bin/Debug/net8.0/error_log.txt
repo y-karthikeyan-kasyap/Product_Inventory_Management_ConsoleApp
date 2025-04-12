@@ -1,0 +1,24 @@
+4/2/2025 11:31:34 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 53
+4/4/2025 11:56:47 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 53
+4/4/2025 11:57:04 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 53
+4/4/2025 11:57:38 AM: InvalidOperationException - Not enough stock to remove.
+   at ProductInventoryManagement.Product.UpdateStock(Int32 quantity) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 33
+4/8/2025 7:11:55 PM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 53
+4/8/2025 7:13:15 PM: InvalidOperationException - Not enough stock to remove.
+   at ProductInventoryManagement.Product.UpdateStock(Int32 quantity) in C:\Users\KY\source\repos\assignment1\assignment1\Program.cs:line 33
+4/12/2025 10:33:16 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\assignment1\assignment1\Product.cs:line 48
+4/12/2025 10:33:32 AM: InvalidOperationException - Not enough stock to remove.
+   at ProductInventoryManagement.Product.UpdateStock(Int32 quantity) in C:\Users\KY\source\repos\assignment1\assignment1\Product.cs:line 29
+4/12/2025 11:43:17 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\Product.cs:line 48
+4/12/2025 11:43:28 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\Product.cs:line 48
+4/12/2025 11:43:37 AM: InvalidOperationException - Not enough stock to remove.
+   at ProductInventoryManagement.Product.UpdateStock(Int32 quantity) in C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\Product.cs:line 29
+4/12/2025 11:48:06 AM: ArgumentOutOfRangeException - Discount must be between 0 and 100. (Parameter 'percentage')
+   at ProductInventoryManagement.Product.ApplyDiscount(Double percentage) in C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\Product.cs:line 48

@@ -1,0 +1,14 @@
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\bin\Debug\net8.0\ProductInventory_ConsoleApp.exe
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\bin\Debug\net8.0\ProductInventory_ConsoleApp.deps.json
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\bin\Debug\net8.0\ProductInventory_ConsoleApp.runtimeconfig.json
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\bin\Debug\net8.0\ProductInventory_ConsoleApp.dll
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\bin\Debug\net8.0\ProductInventory_ConsoleApp.pdb
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.AssemblyInfo.cs
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.dll
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\refint\ProductInventory_ConsoleApp.dll
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.pdb
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ProductInventory_ConsoleApp.genruntimeconfig.cache
+C:\Users\KY\source\repos\ProductInventory_ConsoleApp\ProductInventory_ConsoleApp\obj\Debug\net8.0\ref\ProductInventory_ConsoleApp.dll
