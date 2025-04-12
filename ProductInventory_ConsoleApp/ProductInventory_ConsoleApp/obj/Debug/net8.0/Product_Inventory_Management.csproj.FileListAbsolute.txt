@@ -1,0 +1,14 @@
+C:\Users\KY\source\repos\assignment1\assignment1\bin\Debug\net8.0\Product_Inventory_Management.exe
+C:\Users\KY\source\repos\assignment1\assignment1\bin\Debug\net8.0\Product_Inventory_Management.deps.json
+C:\Users\KY\source\repos\assignment1\assignment1\bin\Debug\net8.0\Product_Inventory_Management.runtimeconfig.json
+C:\Users\KY\source\repos\assignment1\assignment1\bin\Debug\net8.0\Product_Inventory_Management.dll
+C:\Users\KY\source\repos\assignment1\assignment1\bin\Debug\net8.0\Product_Inventory_Management.pdb
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.AssemblyInfoInputs.cache
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.AssemblyInfo.cs
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.dll
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\refint\Product_Inventory_Management.dll
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.pdb
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\Product_Inventory_Management.genruntimeconfig.cache
+C:\Users\KY\source\repos\assignment1\assignment1\obj\Debug\net8.0\ref\Product_Inventory_Management.dll
